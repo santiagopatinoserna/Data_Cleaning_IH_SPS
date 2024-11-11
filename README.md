@@ -83,8 +83,6 @@ jupyter notebook
 
 ## 📊 What You'll Learn
 
-![Learning Path](https://raw.githubusercontent.com/santiagopatinoserna/assets/main/learning-path.png)
-
 - Data inspection and validation techniques
 - Handling missing and duplicate data
 - Data type conversions and standardization
@@ -106,8 +104,6 @@ Throughout these notebooks, you'll learn essential data cleaning best practices:
 ## 👨‍💼 About the Author
 
 <div align="center">
-
-![Author Profile](https://raw.githubusercontent.com/santiagopatinoserna/assets/main/profile.png)
 
 </div>
 
