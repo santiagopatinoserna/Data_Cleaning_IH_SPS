@@ -146,6 +146,4 @@ This project is licensed under standard open-source terms. Feel free to use it f
 
 Created with ❤️ by Santiago PATINO SERNA for data enthusiasts and aspiring data scientists.
 
-![Footer](https://raw.githubusercontent.com/santiagopatinoserna/assets/main/footer.png)
-
 </div>
