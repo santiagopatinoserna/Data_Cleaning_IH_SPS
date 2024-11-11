@@ -1,5 +1,3 @@
-![Data Cleaning Header](https://raw.githubusercontent.com/santiagopatinoserna/assets/main/header-data-cleaning.png)
-
 # 🧹 Data Cleaning with Pandas - Comprehensive Guide
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
@@ -21,8 +19,6 @@ Welcome to this comprehensive data cleaning repository! This educational resourc
 ---
 
 ## 📚 Repository Structure
-
-![Repository Structure](https://raw.githubusercontent.com/santiagopatinoserna/assets/main/repo-structure.png)
 
 This repository contains three Jupyter notebooks that cover different aspects of data cleaning:
 
